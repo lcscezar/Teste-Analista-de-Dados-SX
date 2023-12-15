@@ -1,5 +1,6 @@
 # Resolução:
 Link para acessar o Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNzZjNmRjZmUtZDUzYy00NzhmLThjYmUtY2Y4NTYwZDRkZGMxIiwidCI6IjUzNmY2OTIxLWI1NTktNGYwMC1hZWYwLTA3ZjRlOWZjMjI1NCJ9
+
 Link para o drive com o arquivo (Tabelas, Dimensões (Star Schema): https://drive.google.com/file/d/14MdGyn7wCno28ZOosfK0aYrxSeReM3q7/view?usp=drive_link
 
 # Teste de Analista de Dados
